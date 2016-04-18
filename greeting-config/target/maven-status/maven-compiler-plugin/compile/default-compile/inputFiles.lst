@@ -1,0 +1,7 @@
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/GreetingConfigApplication.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/greeting/GreetingProperties.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/fortune/FortuneService.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/QuoteService.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/QuoteController.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/quote/Quote.java
+/Users/wlund/Dropbox/git-workspace/wxlund/spring-cloud-services-labs/greeting-config/src/main/java/io/pivotal/greeting/GreetingController.java

@@ -1,0 +1,3 @@
+io/pivotal/greeting/GreetingController.class
+io/pivotal/GreetingFeignApplication.class
+io/pivotal/greeting/FortuneServiceClient.class
