@@ -28,6 +28,10 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-bus-amqp</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>io.pivotal.spring.cloud</groupId>
 			<artifactId>spring-cloud-services-starter-config-client</artifactId>
 		</dependency>
@@ -61,9 +65,9 @@
 
 	<repositories>
 		<repository>
-      <id>spring-release</id>
-      <url>https://repo.spring.io/libs-release</url>
-    </repository>
+			<id>spring-release</id>
+			<url>https://repo.spring.io/libs-release</url>
+		</repository>
 	</repositories>
 
 
